@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+dist
+
+node_modules
+
+# env
+.env
+.env.local
+.env.development
+.env.staging
+.env.prod
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
